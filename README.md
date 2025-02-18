@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Dataset](https://img.shields.io/badge/Data-Download-orange)](link_to_dataset)
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](link_to_paper)
-![Teaser Image](Figures/Teaser.png)
+![Teaser Image](figures/Teaser.png)
 
 Authors: **Paul Schulz** (OVGU Magdeburg)   **Thorsten Hempel** (OVGU Magdeburg)   **Ayoub Al-Hamadi** (OVGU Magdeburg)  
 
@@ -17,7 +17,7 @@ Authors: **Paul Schulz** (OVGU Magdeburg)   **Thorsten Hempel** (OVGU Magdeburg)
 
 ---
 ## 📌 Pipeline Overview
-![Teaser Image](Figures/Pipeline.png)
+![Pipeline Image](figures/Pipeline.png)
 
 ### 1️⃣ **Object Capturing**
 - Capturing 2D images of the target object using a **rotating plate** and a **static camera**  
