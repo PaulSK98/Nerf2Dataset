@@ -37,7 +37,37 @@ Authors: **Paul Schulz** (OVGU Magdeburg)   **Thorsten Hempel** (OVGU Magdeburg)
 
 ---
 
+
 ## 🎯 Results
+
+<details open>
+  <summary> <span style="font-size: 20px;"><strong>  1️⃣ Object Capturing</strong></summary>
+
+  Content goes here...
+
+</details>
+
+<details>
+  <summary> <span style="font-size: 20px;"><strong>2️⃣ Model Generation</strong></summary>
+
+  Content goes here...
+
+</details>
+
+<details>
+  <summary> <span style="font-size: 20px;"><strong>3️⃣ Synthetic Dataset Generation</strong></summary>
+
+  Content goes here...
+
+</details>
+
+<details>
+  <summary> <span style="font-size: 20px;"><strong>3️⃣ Synthetic Dataset Generation (Duplicate)</strong></summary>
+
+  Content goes here...
+
+</details>
+>
 
 <table>
   <tr>
