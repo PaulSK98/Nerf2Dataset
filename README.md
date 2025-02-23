@@ -11,7 +11,7 @@ Authors: **Paul Schulz** (OVGU Magdeburg)   **Thorsten Hempel** (OVGU Magdeburg)
 ##  Key Contributions
 
 ✅ **End-to-end automated dataset generation pipeline for monocular 3D Detection/6D Pose Estimation**  
-✅ **Combines textured mesh creation via Neural Rendering and SoTA synthetic datset generation to create datasets for arbitrary complex objects**  
+✅ **Combines mesh creation via Neural Rendering and SoTA synthetic datset generation to create datasets for arbitrary complex objects**  
 ✅ **Capable of training performant 6D pose estimation models**  
 ✅ **Requires minimal resources and manual intervention**  
 
@@ -43,56 +43,41 @@ Authors: **Paul Schulz** (OVGU Magdeburg)   **Thorsten Hempel** (OVGU Magdeburg)
 <details open>
   <summary> <span style="font-size: 20px;"><strong>  1️⃣ Object Capturing</strong></summary>
 
-  Content goes here...
+
 
 </details>
 
 <details>
   <summary> <span style="font-size: 20px;"><strong>2️⃣ Model Generation</strong></summary>
 
-  Content goes here...
+
 
 </details>
 
 <details>
   <summary> <span style="font-size: 20px;"><strong>3️⃣ Synthetic Dataset Generation</strong></summary>
 
-  Content goes here...
+
 
 </details>
 
 <details>
-  <summary> <span style="font-size: 20px;"><strong>3️⃣ Synthetic Dataset Generation (Duplicate)</strong></summary>
-
-  Content goes here...
-
-</details>
->
-
-<table>
+  <summary> <span style="font-size: 20px;"><strong>4️⃣ Inference Results </strong></summary>
+  <table>
   <tr>
     <td>
-      <img src="figures/Elephant.jpg" onmouseover="this.src='figures/Elephant.gif';" onmouseout="this.src='figures/Elephant.jpg';" width="300">
+      <img src="figures/Elephant.gif" width="300">
     </td>
     <td>
-      <img src="figures/Remote.jpg" onmouseover="this.src='figures/Remote.gif';" onmouseout="this.src='figures/Remote.jpg';" width="300">
+      <img src="figures/Remote.gif" width="300">
     </td>
     <td>
-      <img src="figures/Multimeter.jpg" onmouseover="this.src='figures/Multimeter.gif';" onmouseout="this.src='figures/Multimeter.jpg';" width="300">
+      <img src="figures/Multimeter.gif" width="300">
     </td>
   </tr>
 </table>
+</details>
 
 
 
----
-
-## 🚀 Getting Started
-
-### 🔧 Installation
-
-```bash
-git clone https://github.com/PaulSK98/Nerf2Dataset.git
-cd Nerf2Dataset
-pip install -r requirements.txt
 
