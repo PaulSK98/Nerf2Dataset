@@ -65,7 +65,7 @@ Authors: **Paul Schulz** (OVGU Magdeburg)   **Thorsten Hempel** (OVGU Magdeburg)
         <table>
           <tr>
             <td>
-              <img src="figures/Elephant_mesh.png" width="300">
+              <img src="figures/Elephant_mesh.png" width="150">
             </td>
             <td>
               <img src="figures/Remote_mesh.png" width="300">
@@ -79,6 +79,32 @@ Authors: **Paul Schulz** (OVGU Magdeburg)   **Thorsten Hempel** (OVGU Magdeburg)
       
 <details>
   <summary> <span style="font-size: 20px;"><strong>3️⃣ Synthetic Dataset Generation</strong></summary>
+        Bounding Box Modalities
+          <table>
+            <tr>
+              <td>
+                <img src="figures/Elephant_bb1.png" width="300">
+              </td>
+              <td>
+                <img src="figures/Elephant_bb2.png" width="300">
+              </td>
+              <td>
+                <img src="figures/Elephant_bb3.png" width="300">
+              </td>
+            </table>
+      Light Variations
+        <table>
+            <td>
+              <img src="figures/Elephant_light1.png" width="300">
+            </td>
+            <td>
+              <img src="figures/Elephant_light3.png" width="300">
+            </td>
+            <td>
+              <img src="figures/Elephant_light2.png" width="300">
+            </td>
+          </tr>
+      </table>
 
 
 
