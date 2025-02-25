@@ -65,13 +65,13 @@ Authors: **Paul Schulz** (OVGU Magdeburg)   **Thorsten Hempel** (OVGU Magdeburg)
         <table>
           <tr>
             <td>
-              <img src="figures/Elephant_mesh.gif" width="300">
+              <img src="figures/Elephant_mesh.png" width="300">
             </td>
             <td>
-              <img src="figures/Remote_mesh.gif" width="300">
+              <img src="figures/Remote_mesh.png" width="300">
             </td>
             <td>
-              <img src="figures/Multimeter_mesh.gif" width="300">
+              <img src="figures/Multimeter_mesh.png" width="300">
             </td>
           </tr>
       </table>
