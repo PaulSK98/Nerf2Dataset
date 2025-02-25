@@ -42,6 +42,7 @@ Authors: **Paul Schulz** (OVGU Magdeburg)   **Thorsten Hempel** (OVGU Magdeburg)
 
 <details>
   <summary> <span style="font-size: 20px;"><strong>  1️⃣ Object Capturing</strong></summary>
+    <img src="figures/Elephant_captured.gif" width="300">
 
 </details>
 
@@ -110,7 +111,7 @@ Authors: **Paul Schulz** (OVGU Magdeburg)   **Thorsten Hempel** (OVGU Magdeburg)
 
 </details>
 
-<details>
+<details open>
   <summary> <span style="font-size: 20px;"><strong>4️⃣ Inference Results </strong></summary>
   <table>
   <tr>
