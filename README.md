@@ -40,20 +40,43 @@ Authors: **Paul Schulz** (OVGU Magdeburg)   **Thorsten Hempel** (OVGU Magdeburg)
 
 ## 🎯 Results
 
-<details open>
+<details>
   <summary> <span style="font-size: 20px;"><strong>  1️⃣ Object Capturing</strong></summary>
-
-
 
 </details>
 
 <details>
   <summary> <span style="font-size: 20px;"><strong>2️⃣ Model Generation</strong></summary>
-
-
-
+  Radiance Fields
+        <table>
+          <tr>
+            <td>
+              <img src="figures/elephant_rf.gif" width="300">
+            </td>
+            <td>
+              <img src="figures/remote_rf.gif" width="300">
+            </td>
+            <td>
+              <img src="figures/multimeter_rf.gif" width="300">
+            </td>
+          </tr>
+      </table>
+    Meshes
+        <table>
+          <tr>
+            <td>
+              <img src="figures/Elephant_mesh.gif" width="300">
+            </td>
+            <td>
+              <img src="figures/Remote_mesh.gif" width="300">
+            </td>
+            <td>
+              <img src="figures/Multimeter_mesh.gif" width="300">
+            </td>
+          </tr>
+      </table>
 </details>
-
+      
 <details>
   <summary> <span style="font-size: 20px;"><strong>3️⃣ Synthetic Dataset Generation</strong></summary>
 
