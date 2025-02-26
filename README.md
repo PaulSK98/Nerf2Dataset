@@ -1,9 +1,6 @@
 # Automating 3D Dataset Generation with Neural Radiance Fields
 
 [![Conference: ROBOVIS 2025](https://img.shields.io/badge/Conference-ROBOVIS%202025-blue.svg)](https://robovis.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Dataset](https://img.shields.io/badge/Data-Download-orange)](link_to_dataset)
-[![Paper](https://img.shields.io/badge/Paper-PDF-red)](link_to_paper)
 ![Teaser Image](figures/Teaser.png)
 
 Authors: **Paul Schulz** (OVGU Magdeburg)   **Thorsten Hempel** (OVGU Magdeburg)   **Ayoub Al-Hamadi** (OVGU Magdeburg)  
